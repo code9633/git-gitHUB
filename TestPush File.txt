@@ -1,4 +1,0 @@
-This is the test git and devops project
-\
-add the another text line
-
